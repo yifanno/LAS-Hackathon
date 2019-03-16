@@ -1,3 +1,1 @@
-## Resources for hackathon
-
-Kanban Board
+## Hackathon resources
