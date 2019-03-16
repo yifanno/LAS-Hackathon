@@ -7,4 +7,4 @@ Census and BRES
 [Nomis](https://www.nomisweb.co.uk/)
 
 STATS19 Accident data  
-[Accident data]([Nomis](https://data.gov.uk/dataset/cb7ae6f0-4be6-4935-9277-47e5ce24a11f/road-safety-data)
+[Accident data](https://data.gov.uk/dataset/cb7ae6f0-4be6-4935-9277-47e5ce24a11f/road-safety-data)
